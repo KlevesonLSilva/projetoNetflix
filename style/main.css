@@ -87,3 +87,19 @@ header nav a:hover{
 .botao i{
     margin-right: 5px;
 }
+
+/*aula 5 terminanda*/
+.container{
+    margin-left: 30px;
+}
+
+.filme-principal .container{
+    width: 60%;
+}
+/*aula 6 terminada*/
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
